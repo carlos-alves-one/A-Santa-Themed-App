@@ -15,7 +15,7 @@ public class Toy {
     private double weight;
 
     /* declare the construction function for this class */
-    public Toy(String name, double price, double weight) {
+    public Toy(String name, double price, double weight, int i) {
         this.name = name;
         this.price = price;
         this.weight = weight;
